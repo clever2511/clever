@@ -1,6 +1,6 @@
 ﻿<?php
 ob_start();
-define('API_KEY', '1207604796:AAE2VvDfhaKn9XtdYje3uPYqC3NbHI0WnQY');
+define('API_KEY', '1207604796:AAETGTfzcBfVzRTmpVpc5SzFrLQ3Dy3EfIk');
 //TOKEN 
 $admin = "612920598"; 
 $bot = "Svch23sbot";
